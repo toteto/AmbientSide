@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item name="enter_ambient" type="id"/>
+  <item name="exit_ambient" type="id"/>
+  <item name="update_ambient" type="id"/>
+</resources>
